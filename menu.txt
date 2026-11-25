@@ -1,0 +1,2 @@
+FOOD,Volcano Roll,18.00,Sushi,spicy,false,true
+DRINK,Lime Margarita,12.00,Margarita,true,false
